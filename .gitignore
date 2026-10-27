@@ -1,0 +1,3 @@
+# Each reader's private local context must not be committed.
+references/reader-profile.md
+.DS_Store
